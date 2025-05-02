@@ -1,6 +1,6 @@
 # BevoBotsPolitics
 This is the Repository that has the IPNY notebook and instructions to run our code
-- TrumpOrBiden_Model.ipynb: Main Colab notebook with all code and visualizations
+- FinalProjectBevoBots.ipynb: Main Colab notebook with all code and visualizations
 - TrumpOrBiden.xlsx: Cleaned dataset with numeric features
 - README.md: Instructions for running the project
 -  Open the Colab notebook:  
