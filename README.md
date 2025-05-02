@@ -5,9 +5,10 @@ This is the Repository that has the IPNY notebook and instructions to run our co
 - README.md: Instructions for running the project
 -  Open the Colab notebook:  
  
-2. Upload `TrumpOrBiden.xlsx` when prompted
+2. Upload TrumpOrBiden.csv to view the dataset
+3. Upload TrumpOrBiden.csv to the Colab
 
-3. Run each cell in order to:
+4. Run each cell in order to:
    - Load and clean the data
    - Train a logistic regression model
    - View prediction accuracy and feature importance
